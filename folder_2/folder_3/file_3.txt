@@ -1,3 +1,2 @@
 line 3
-dodana vrstica v file 3
 
