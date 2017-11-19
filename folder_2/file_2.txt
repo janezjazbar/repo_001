@@ -1,2 +1,3 @@
 line 2
+dodana vrstica v file 2
 
